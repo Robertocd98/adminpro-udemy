@@ -4,8 +4,7 @@ import { MultiDataSet, Label } from 'ng2-charts';
 
 @Component({
   selector: 'app-grafico-dona',
-  templateUrl: './grafico-dona.component.html',
-  styleUrls: ['./grafico-dona.component.css']
+  templateUrl: './grafico-dona.component.html'
 })
 export class GraficoDonaComponent implements OnInit {
 
